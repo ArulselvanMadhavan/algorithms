@@ -1,0 +1,8 @@
+* Fenwick Tree
+- Binary Indexed tree
+- Cumulative Freq table
+- value of function f in range [l, r] in O(log N) time
+- updates an element A in O(log N) time
+- Requires O(N) memory to store T
+- f can be any function
+- g selection defines how T and A are related
